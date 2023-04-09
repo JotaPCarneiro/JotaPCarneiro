@@ -38,6 +38,6 @@
   
   <div>
     
-    ![Snake](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
+    ![404-Snake](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
     
   </div>
