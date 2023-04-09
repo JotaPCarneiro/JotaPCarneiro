@@ -1,16 +1,33 @@
-### Hi there 👋
+# Olá, jovem! Seja muito bem-vindo(a). Eu sou o João Paulo! 😄
 
-<!--
-**JotaPCarneiro/JotaPCarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/JotaPCarneiro">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JotaPCarneiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaPCarneiro&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :rocket: Tecnologias que estou usando atualmente:
+<div style="display: inline_block">
+  <img align="center" alt="404-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="404-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="404-CSharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="404-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="404-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="404-Visualstudio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="404-Intellij" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  
+  
+  <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://media1.giphy.com/media/3oKIPipgrovqOodyYo/giphy.gif?cid=ecf05e47d4msd5nn2umje22qcy8dcnxoiugybcjpkjepnxz9&rid=giphy.gif&ct=g"> 
+</div>
+  
+  ##
+  ### :pushpin: Redes sociais (clique para ser redirecionado):
+
+  <div> 
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-carneiro-5594bb218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:jotap.carneiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/jotapCarneiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/ojoao.paulo/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
+ 
+</div>
