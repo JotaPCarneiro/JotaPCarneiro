@@ -19,6 +19,7 @@
   
   
   <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://media1.giphy.com/media/3oKIPipgrovqOodyYo/giphy.gif?cid=ecf05e47d4msd5nn2umje22qcy8dcnxoiugybcjpkjepnxz9&rid=giphy.gif&ct=g"> 
+  
 </div>
   
   ##
@@ -32,6 +33,6 @@
     
     
     
-    ![snake gif](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
+    ![404-Snake animation](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
     
 </div>
