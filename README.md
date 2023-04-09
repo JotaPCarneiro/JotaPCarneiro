@@ -10,15 +10,15 @@
 ### :rocket: Tecnologias que estou usando atualmente:
 <div style="display: inline_block">
   <img align="center" alt="AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="404-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="404-CSharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="404-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="404-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="404-Visualstudio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="404-Intellij" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="CSharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Visualstudio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Intellij" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   
   
-  <img align="right" alt="404-GIF" height="180" style="border-radius:50px;" src="https://media1.giphy.com/media/3oKIPipgrovqOodyYo/giphy.gif?cid=ecf05e47d4msd5nn2umje22qcy8dcnxoiugybcjpkjepnxz9&rid=giphy.gif&ct=g"> 
+  <img align="right" alt="Deku-GIF" height="180" style="border-radius:50px;" src="https://media1.giphy.com/media/3oKIPipgrovqOodyYo/giphy.gif?cid=ecf05e47d4msd5nn2umje22qcy8dcnxoiugybcjpkjepnxz9&rid=giphy.gif&ct=g"> 
   
 </div>
   
@@ -31,8 +31,13 @@
     <a href="https://t.me/jotapCarneiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/ojoao.paulo/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-    
-    
-    ![Snake animation](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
-    
 </div>
+
+  ##
+  ###
+  
+  <div>
+    
+    ![Snake](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
