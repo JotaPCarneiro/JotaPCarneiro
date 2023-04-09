@@ -9,7 +9,7 @@
 
 ### :rocket: Tecnologias que estou usando atualmente:
 <div style="display: inline_block">
-  <img align="center" alt="404-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="404-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="404-CSharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="404-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
@@ -33,6 +33,6 @@
     
     
     
-    ![404-Snake animation](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
     
 </div>
