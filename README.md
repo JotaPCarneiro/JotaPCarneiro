@@ -32,6 +32,6 @@
     
     
     
-    ![404-Snake animation](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
     
 </div>
