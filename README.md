@@ -33,11 +33,10 @@
     
 </div>
 
-  ##
-  ###
-  
-  <div>
-    
-    ![404-snake](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+##
+
+<div>
+ 
+  ![404-snake](https://github.com/JotaPCarneiro/JotaPCarneiro/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
